@@ -44,7 +44,7 @@ To view this portfolio website on your local machine, follow these steps:
    First, clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+  git clone https://github.com/Mahrukh-khan12/portfolio.git
 
 ### 2. **Navigate to the Project Folder:**
 
