@@ -31,4 +31,40 @@ To view this portfolio website on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/portfolio.git
 
+### 2. **Navigate to the Project Folder:**
+
+   Once the repository is cloned, navigate to the project directory:
+   ```bash
+   cd portfolio
+
+### 3. **Open the Website:**
+
+   Open the `index.html` file in your web browser. You can either open the file directly from your file explorer or use the terminal.
+
+---
+
+   - For **MacOS**:
+     ```bash
+     open index.html
+     ```
+
+---
+
+   - For **Windows**:
+     ```bash
+     start index.html
+     ```
+
+---
+
+   - For **Linux**:
+     ```bash
+     xdg-open index.html
+     ```
+
+---
+
+Alternatively, if you're using a development environment like **VS Code**, you can use the **Live Server** extension to view it.
+
+---
 
