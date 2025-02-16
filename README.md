@@ -3,13 +3,28 @@
 Welcome to my personal portfolio! This project showcases my skills, experience, and the services I offer. It includes details about my background, the services I provide, and ways for you to get in touch with me.
 
 ---
-
 ## Pages:
 
 ### **Home**
 The home page is the landing page of my portfolio. It provides a quick introduction to who I am and what I do, including an overview of my skills and projects. This makes it easy for visitors to navigate the rest of the website.
 
 ---
+
+### **About**
+The about page gives a more detailed look at my professional journey. It covers my education, experiences, and what drives me, offering visitors a deeper understanding of my background and why I’m passionate about my work.
+
+---
+
+### **Services**
+On the services page, you'll find a list of the services I offer, ranging from web development to design. Each service includes a brief description of what I do and how it can benefit you.
+
+---
+
+### **Contact**
+The contact page allows visitors to easily get in touch with me. It includes a contact form (or email link), social media profiles, and other ways to reach out for potential collaborations or inquiries.
+
+---
+
 
 ## Technologies Used:
 - HTML
